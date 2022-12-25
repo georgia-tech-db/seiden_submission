@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c349cec-4905-4963-b025-67b62506d2ee" name="seiden_submission">
+        <fileTransfer accessType="SFTP" host="ada-03.cc.gatech.edu" port="22" sshConfigId="f51e3550-f5dd-4466-8669-74e78f59f560" sshConfig="jbang36@ada-03.cc.gatech.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
